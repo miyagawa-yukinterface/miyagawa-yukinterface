@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning java!
 - 📫 How to reach me: [Twitter - @yanashi_interf](https://twitter.com/yanashi_interf)
 
 - 🔭 I’m currently working on ...
@@ -23,7 +23,7 @@
 ## 🌱 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,astro,aws,azure,blender,c,cs,cpp,clion,cmake,css,discord,bots,discordjs,dotnet,eclipse,electron,figma,git,github,githubactions,gmail,go,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,pycharm,py,raspberrypi,sqlite,svg,twitter,ts,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=arduino,astro,blender,c,cs,cpp,cmake,css,discord,bots,discordjs,dotnet,eclipse,figma,git,github,githubactions,gmail,go,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,py,raspberrypi,sqlite,svg,twitter,ts,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
   </a>
 </p>
 
