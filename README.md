@@ -23,7 +23,7 @@
 ## 🌱 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,astro,blender,c,cs,cpp,cmake,css,discord,bots,discordjs,dotnet,eclipse,figma,git,github,githubactions,gmail,go,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,py,raspberrypi,sqlite,svg,twitter,ts,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,cmake,css,discord,bots,discordjs,dotnet,eclipse,figma,git,github,githubactions,gmail,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,py,raspberrypi,sqlite,svg,twitter,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
   </a>
 </p>
 
