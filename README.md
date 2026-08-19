@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=miyagawa-yukinterface" />
 </div>
 
