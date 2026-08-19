@@ -34,8 +34,13 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2FBetter-MK&show_owner=true&theme=calm_pink)](https://github.com/miyagawa-yukinterface/Better-MK)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2FBetter-MK&show_owner=true&theme=calm_pink" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2Fnashi-shiori-studio&show_owner=true&theme=calm_pink" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2Fukagaka&show_owner=true&theme=calm_pink" />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2Fnashi-shiori-studio&show_owner=true&theme=calm_pink)](https://github.com/miyagawa-yukinterface/nashi-shiori-studio)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=miyagawa-yukinterface&repo=miyagawa-yukinterface%2Fukagaka&show_owner=true&theme=calm_pink)](https://github.com/miyagawa-yukinterface/ukagaka)
