@@ -13,8 +13,7 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-<br>
+[![My Skills](https://skillicons.dev/icons?i=arduino,astro,aws,azure,blender,c,cs,cpp,clion,cmake,css,discord,bots,discordjs,dotnet,eclipse,electron,figma,git,github,githubactions,gmail,go,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,pycharm,py,raspberrypi,sqlite,svg,twitter,ts,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress,,,,,,,,,,,,,,,,,&perline=3)](https://skillicons.dev)
 
 
 ## 🏃‍♀️ Activities
