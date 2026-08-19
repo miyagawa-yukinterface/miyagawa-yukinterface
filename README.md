@@ -28,9 +28,13 @@
 </p>
 
 ## 🏃‍♀️ Activities
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&rank_icon=github&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&rank_icon=github&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&rank_icon=github&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink" />
+</a>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)
 
