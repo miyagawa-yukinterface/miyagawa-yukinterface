@@ -3,9 +3,8 @@
 </div>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-- 🧑‍💻 I'm a Yamanashi Iroha.
-- 🌱 I’m currently learning java!
+🧑‍💻 I'm a Yamanashi Iroha.
+🌱 I’m currently learning java!
 
 <p>
   <picture>
