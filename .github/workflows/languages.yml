@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ファイル名と出力先
-          filename: output/metrics.svg
+          filename: output/language.svg
           # トークンを指定（プライベートリポジトリを含める場合）
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # パブリックリポジトリのみの場合は、以下のコメントを解除
