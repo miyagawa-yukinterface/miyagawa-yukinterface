@@ -3,17 +3,9 @@
 </div>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-🚀 Flutter Developer passionate about mobile development  
-
-🌍 Location: Japan 🇯🇵  
-💼 Focus: Building beautiful mobile applications  
-☕ Powered by: Coffee and curiosity  
-🎯 Goal: Creating amazing user experiences  
 
 - 🧑‍💻 I'm a Yamanashi Iroha.
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning java!
-- 📫 How to reach me: [Twitter - @yanashi_interf](https://twitter.com/yanashi_interf)
 
 <p>
   <picture>
