@@ -30,8 +30,6 @@
 
 ## My GitHub
 
-## 🌟 About Me
-
 <div align="center">
 
 <table>
