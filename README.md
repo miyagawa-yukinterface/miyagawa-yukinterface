@@ -21,12 +21,10 @@
 ☕ Powered by: Coffee and curiosity  
 🎯 Goal: Creating amazing user experiences  
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm a Yamanashi Iroha.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning java!
 - 📫 How to reach me: [Twitter - @yanashi_interf](https://twitter.com/yanashi_interf)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 <p>
   <picture>
