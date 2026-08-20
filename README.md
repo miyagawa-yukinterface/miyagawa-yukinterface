@@ -52,13 +52,6 @@
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.svg" />
   </picture>
 
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/output-3d-contrib/day.svg" />
-  </picture>
-</p>
-
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
@@ -66,14 +59,6 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/output-3d-contrib/day.svg" />
-  </picture>
-</p>
 
 <p align="left">
   <picture>
