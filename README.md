@@ -51,6 +51,7 @@
   <picture>
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.svg" />
   </picture>
+
   <picture>
    	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
     <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
