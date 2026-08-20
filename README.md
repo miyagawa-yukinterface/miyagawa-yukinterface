@@ -30,12 +30,6 @@
 
 ## My GitHub Stats
 
-
-<p align="left">
-  <picture>
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.svg" />
-  </picture>
-
 ## 🌟 **About Me**
 
 <div align="center">
@@ -47,6 +41,11 @@
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
+
+<p align="left">
+  <picture>
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.svg" />
+  </picture>
 
 ### 👋 **Hi, I'm User!**
 🚀 **Flutter Developer** passionate about mobile development  
