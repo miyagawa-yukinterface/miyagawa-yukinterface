@@ -125,6 +125,9 @@
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=cmake,git,github,idea,powershell,unity,unreal,visualstudio,vscode,wordpress" />
 
+### 💻  **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,discordjs,dotnet,gradle,html,java,js,kotlin,maven,md,nginx,nodejs,py" />
+
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -133,9 +136,6 @@
 
 ### 🎨  **Design**
 <img src="https://skillicons.dev/icons?i=blender,figma,svg" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,discordjs,dotnet,gradle,html,java,js,kotlin,maven,md,nginx,nodejs,py" />
 
 </td>
 </tr>
