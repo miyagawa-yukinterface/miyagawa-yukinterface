@@ -17,14 +17,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-## 🌱 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,cmake,css,discord,bots,discordjs,dotnet,figma,git,github,githubactions,gmail,gradle,godot,html,htmx,idea,instagram,java,js,kotlin,linux,md,mastodon,maven,mysql,nginx,nodejs,postgres,powershell,py,raspberrypi,sqlite,svg,twitter,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
-  </a>
-</p>
-
 ## 🏃‍♀️ Activities
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyagawa-yukinterface&theme=holi&animation=draw&name=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89)
@@ -145,12 +137,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miyagawa-yukinterface&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
 
 <div align="center">
