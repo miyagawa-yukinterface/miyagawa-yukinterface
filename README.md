@@ -13,17 +13,13 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=miyagawa-yukinterface&layout=donut&langs_count=10&theme=calm_pink)
 </a>
 
-## My GitHub
-
-### 👋 Hi, I'm User!
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 🚀 Flutter Developer passionate about mobile development  
 
 🌍 Location: Japan 🇯🇵  
 💼 Focus: Building beautiful mobile applications  
 ☕ Powered by: Coffee and curiosity  
 🎯 Goal: Creating amazing user experiences  
-
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning java!
