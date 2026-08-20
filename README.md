@@ -36,21 +36,6 @@
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.svg" />
   </picture>
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
-
-<p align="left">
-  <picture>
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.plugin.calendar.full.svg" />
-  </picture>
-</p>
-
-
 ## 🌟 **About Me**
 
 <div align="center">
@@ -113,3 +98,17 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miyagawa-yukinterface&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
+
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+  <picture>
+  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.plugin.calendar.full.svg" />
+  </picture>
+</p>
