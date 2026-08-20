@@ -78,8 +78,6 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/miyagawa-yukinterface/miyagawa-yukinterface/refs/heads/main/output/metrics.plugin.calendar.full.svg" />
   </picture>
 </p>
