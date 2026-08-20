@@ -123,25 +123,25 @@
 <td width="50%" align="center" valign="top">
 
 ### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=" />
 
 ### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=cmake,git,github,idea,powershell,unity,unreal,visualstudio,vscode,wordpress" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=blender,figma,svg" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,discordjs,dotnet,gradle,html,java,js,kotlin,maven,md,nginx,nodejs,py" />
 
 </td>
 </tr>
