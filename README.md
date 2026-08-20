@@ -4,8 +4,6 @@
 
 ## 🏃‍♀️ Activities
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyagawa-yukinterface&theme=holi&animation=draw&name=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-stats-extended.vercel.app/api?username=miyagawa-yukinterface&rank_icon=github&custom_title=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm_pink" />
 </a>
@@ -35,6 +33,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyagawa-yukinterface&custom_title=miyagawa-yukinterface's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyagawa-yukinterface&theme=holi&animation=draw&name=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89" />
 </div>
 
 ## 🛠️ Tech Stack
