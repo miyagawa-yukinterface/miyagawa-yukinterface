@@ -72,10 +72,6 @@
 
 ## ⚙ GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miyagawa-yukinterface&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
