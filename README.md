@@ -32,10 +32,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miyagawa-yukinterface&custom_title=miyagawa-yukinterface's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyagawa-yukinterface&theme=holi&animation=draw&name=%E6%9C%88%E8%A6%8B%E9%87%8C%E3%80%80%E5%BD%A9%E8%91%89" />
 </div>
 
