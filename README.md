@@ -122,12 +122,6 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=" />
-
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=" />
-
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=cmake,git,github,idea,powershell,unity,unreal,visualstudio,vscode,wordpress" />
 
