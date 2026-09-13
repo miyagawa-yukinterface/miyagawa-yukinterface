@@ -33,7 +33,7 @@
 <td width="50%" align="center" valign="top">
 
 ### 🔧  Development Tools
-<img src="https://skillicons.dev/icons?i=cmake,git,github,idea,powershell,unity,unreal,visualstudio,vscode,wordpress" />
+<img src="https://skillicons.dev/icons?i=cmake,git,github,idea,powershell,unity,unreal,visualstudio,vscode" />
 
 ### 💻  Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,discordjs,dotnet,gradle,html,java,js,kotlin,maven,md,nginx,nodejs,py" />
@@ -45,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 ### 🎨  Design
-<img src="https://skillicons.dev/icons?i=blender,figma,svg" />
+<img src="https://skillicons.dev/icons?i=blender,svg" />
 
 </td>
 </tr>
